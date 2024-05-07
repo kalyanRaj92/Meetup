@@ -1,0 +1,6 @@
+.registerContainer{
+    display: flex;
+}
+.error{
+    color: crimson;
+}
